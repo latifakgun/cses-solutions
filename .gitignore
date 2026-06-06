@@ -1,0 +1,5 @@
+# Windows için derlenmiş dosyalar
+*.exe
+
+# Mac/Linux için uzantısız derlenmiş dosyalar (kendi verdiğin isimler)
+weird
